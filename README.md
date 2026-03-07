@@ -15,6 +15,12 @@
 | `obsidian-bases` | `obsidian-bases/` | 创建与编辑 Obsidian `.base` 数据视图 | 带 filters/formulas/views 的 `.base` |
 | `json-canvas` | `json-canvas/` | 创建与编辑 Obsidian `.canvas` 画布 | 符合 JSON Canvas 规范的 `.canvas` |
 
+<a href="[https://your-blog-url.com](https://blog.csdn.net/m0_59012280/article/details/158737734?spm=1001.2014.3001.5501)">
+  <img src="https://github-readme-blog-cards.onrender.com?url=https://your-blog-url.com" alt="我的博客" />
+</a>
+
+
+
 ## 核心能力亮点
 
 1. **源码优先图片提取**：`extract-paper-images` 优先从 arXiv 源码目录（`pics/figures/images`）取图，减少 PDF logo/装饰图噪声。
