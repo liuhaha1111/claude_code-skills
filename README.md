@@ -1,5 +1,9 @@
 # Obsidian Research Skills Hub
 
+skills使用技巧参考博文：
+[Obsidian（Markdown笔记软件） 插件 + claude code skills 玩法合集：论文管理、图片优化、多格式导出一站式搞定](https://blog.csdn.net/m0_59012280/article/details/158737734?spm=1001.2014.3001.5501)
+
+
 一个面向 **论文检索/分析/知识沉淀** 的 Skills 集合仓库，服务于 Obsidian 知识库工作流。  
 当前目录内共包含 **7 个 skill**，覆盖从“找论文”到“产出结构化笔记”的完整链路。
 
@@ -14,9 +18,6 @@
 | `obsidian-markdown` | `obsidian-markdown/` | 规范化 Obsidian Markdown（wikilink/embed/callout/frontmatter） | 可直接在 Obsidian 渲染的 `.md` |
 | `obsidian-bases` | `obsidian-bases/` | 创建与编辑 Obsidian `.base` 数据视图 | 带 filters/formulas/views 的 `.base` |
 | `json-canvas` | `json-canvas/` | 创建与编辑 Obsidian `.canvas` 画布 | 符合 JSON Canvas 规范的 `.canvas` |
-
-
-[Obsidian（Markdown笔记软件） 插件 + claude code skills 玩法合集：论文管理、图片优化、多格式导出一站式搞定](https://blog.csdn.net/m0_59012280/article/details/158737734?spm=1001.2014.3001.5501)
 
 
 ## 核心能力亮点
