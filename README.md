@@ -16,7 +16,7 @@
 | `json-canvas` | `json-canvas/` | 创建与编辑 Obsidian `.canvas` 画布 | 符合 JSON Canvas 规范的 `.canvas` |
 
 
-<a href="[https://your-blog-url.com](https://blog.csdn.net/m0_59012280/article/details/158737734?spm=1001.2014.3001.5501)" target="_blank">Obsidian（Markdown笔记软件） 插件 + claude code skills 玩法合集：论文管理、图片优化、多格式导出一站式搞定</a>
+[Obsidian（Markdown笔记软件） 插件 + claude code skills 玩法合集：论文管理、图片优化、多格式导出一站式搞定](https://blog.csdn.net/m0_59012280/article/details/158737734?spm=1001.2014.3001.5501)
 
 
 ## 核心能力亮点
