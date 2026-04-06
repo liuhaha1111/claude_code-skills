@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thesis Review"
+  short_description: "Review theses and export formal comments or chapter annotations."
+  default_prompt: "Use $thesis-review to review a thesis and generate the requested output document."
